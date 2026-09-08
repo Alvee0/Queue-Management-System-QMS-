@@ -12,7 +12,7 @@ An enterprise-grade, offline-first Queue Management & Smart Token Dispatching Sy
   * Hourly Customer Flow Traffic (Bar Chart) & Service Distribution analytics (Donut Chart).
  
 * **🎫 Reception & Smart Token Generation:**
-  ![Reception & Issue](./images/Reception&Issue.png)
+  ![Reception & Issue](./images/Reception.png)
   * Categorized ticket generation (General Enquiries, Cash & Payments, Accounts & Banking, Technical Support).
   * Priority Ticket Handling (Normal, VIP, Senior Citizen, Pregnant, Disabled, Emergency).
   * Thermal Ticket Print Preview ($58\text{mm} / 80\text{mm}$ printer support) with auto-trigger dialog.
