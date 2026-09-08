@@ -18,23 +18,28 @@ An enterprise-grade, offline-first Queue Management & Smart Token Dispatching Sy
   * Thermal Ticket Print Preview ($58\text{mm} / 80\text{mm}$ printer support) with auto-trigger dialog.
 
 * **💻 Counter Station Interface:**
+  ![Counter](./images/Counter.png)
   * Dedicated operator view with one-click actions: **Call Next (F2)**, **Recall (F3)**, **Complete (F5)**, and **Skip (F4)**.
   * Real-time view of eligible waiting queue per counter assignment.
 
 * **📺 Public TV Display Screen:**
+  ![TV](./images/TV.png)
   * Digital signage display showing active ticket calls per counter and upcoming tokens in line.
   * Visual status updates for seamless customer guidance.
 
 * **📋 Token Manager & History Log:**
+  ![Token](./images/Token.png)
   * Full audit trail of generated tokens with live status tracking (*Waiting*, *Serving*, *Completed*, *Skipped*).
   * Quick search and status filters.
 
 * **📈 Reports & Performance Analytics:**
+  ![reports](./images/reports.png)
   * Operational KPIs including average wait time and average serve time.
   * Counter serving productivity charts.
   * Data export options in **CSV** and full backup in **JSON** formats.
 
 * **⚙️ System & Voice Branding Settings:**
+  ![settings](./images/settings.png)
   * Multi-counter management and custom staff/category tagging.
   * Integrated Text-to-Speech (TTS) Voice Announcement Synthesizer with adjustable speech speed.
   * Customizable business identity and ticket header/footer text.
