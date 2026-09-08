@@ -9,7 +9,7 @@ An enterprise-grade, offline-first Queue Management & Smart Token Dispatching Sy
 * **📊 Real-time Executive Dashboard:**
   * Real-time metrics: Total tokens, waiting queue, active counter statuses, and completion rates.
   * Hourly Customer Flow Traffic (Bar Chart) & Service Distribution analytics (Donut Chart).
-
+ 
 * **🎫 Reception & Smart Token Generation:**
   * Categorized ticket generation (General Enquiries, Cash & Payments, Accounts & Banking, Technical Support).
   * Priority Ticket Handling (Normal, VIP, Senior Citizen, Pregnant, Disabled, Emergency).
