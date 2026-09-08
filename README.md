@@ -1,4 +1,4 @@
-# 🎫 Smart Queue Management System (QMS)
+# 🎫 Queue Management System (QMS)
 
 An enterprise-grade, offline-first Queue Management & Smart Token Dispatching System designed for customer care centers, banks, and service points. Built with modern web technologies, this solution streamlined customer flow, service counter operations, ticket printing, and voice announcements.
 
