@@ -59,7 +59,10 @@ Ensure you have the following installed on your local machine:
 
 ### Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/queue-management-system.git](https://github.com/your-username/queue-management-system.git)
-   cd queue-management-system
+* Install dependencies:
+   npm install
+
+* Run the application locally:
+   npm run dev
+
+* Open [http://localhost:3000](http://localhost:5173/) in your web browser.
