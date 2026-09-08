@@ -5,8 +5,9 @@ An enterprise-grade, offline-first Queue Management & Smart Token Dispatching Sy
 ---
 
 ## ✨ Key Features
-
+(/images/Dashboard.png)
 * **📊 Real-time Executive Dashboard:**
+  
   * Real-time metrics: Total tokens, waiting queue, active counter statuses, and completion rates.
   * Hourly Customer Flow Traffic (Bar Chart) & Service Distribution analytics (Donut Chart).
  
